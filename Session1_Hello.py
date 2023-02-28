@@ -1,7 +1,6 @@
 print('Hello word')
 print('Hello word')
 print('Hello word')
-print('Hello word')
 
 friend=['A','B','Z']
 
